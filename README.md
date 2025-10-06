@@ -29,7 +29,6 @@ Gosto de transformar regras de negócio complexas em código bem estruturado —
 
 ### 📊 Estatísticas
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=luteciorv&count_private=true&show_icons=true&theme=github_dark&custom_title=Estatísticas&include_all_commits=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luteciorv&langs_count=10&theme=github_dark&hide_progress=true&layout=compact"/>
 </div>
 
