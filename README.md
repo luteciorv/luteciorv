@@ -43,8 +43,4 @@ Gosto de transformar regras de negócio complexas em código bem estruturado —
 
 ---
 
-![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ⭐ “A melhor arquitetura é aquela que deixa o código falar por si.”  
